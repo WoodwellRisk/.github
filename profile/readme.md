@@ -1,2 +1,3 @@
-### Welcome to the GitHub account of Woodwell's Risk team.
-Here you will find code and methods behind our products.
+### Welcome to the GitHub account of Woodwell's Risk team
+Here you will find the code and methods behind our products.
+Our repositories are organized by...
