@@ -15,10 +15,3 @@ We believe that the analyses we provide and the data that drives them should be 
 |  Agriculture | Projecting crop yields under future climatic conditions. | 
 |  Flood Assessment | High resolution flood extents due to extreme rainfall. | 
 |  Drought & Water Scarcity | Understanding the future of global water availability. | 
-
-
-We also provide useful tools for derived climate analyses:
-
-| Tool | Overview  |
-|---|---|
-| Warming Levels | Python package for estimating the years that correspond to warming levels in CMIP ensembles. | 
