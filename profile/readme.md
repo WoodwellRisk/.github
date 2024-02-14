@@ -1,6 +1,4 @@
-<div style="text-align: center;">
 ![Organizational Banner](https://github.com/WoodwellRisk/.github/blob/main/profile/slr_florida_3.jpg)
-</div>
 
 ## Woodwell Climate Research Center: Risk
 
