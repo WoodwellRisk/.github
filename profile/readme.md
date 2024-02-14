@@ -7,8 +7,14 @@ Within the repositories in this organization, you will find the code and methods
 | Theme | Overview  |
 |---|---|
 |  [Extreme Heat](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Aheat&type=repositories) | Calculating heat extremes and their impacts on public health. | 
-|  [Tropical Cyclone Risk](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Acoastal&type=repositories) | Assessing the impacts of storm surge and high winds for coastal communities.  |
-|  Agriculture |  | 
-|  Riverine Flooding |  | 
-|  Drought & Water Scarcity |  | 
+|  [Coastal Risk](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Acoastal&type=repositories) | Assessing the impacts of storm surge and high winds for coastal communities.  |
+|  Agriculture | Projecting crop yields under future climatic conditions. | 
+|  Flood Assessment | High resolution flood extents due to extreme rainfall. | 
+|  Drought & Water Scarcity | Understanding the future of global water availability. | 
 |  River & Lake Ice |  | 
+
+We also provide useful tools for derived climate analyses:
+
+| Tool | Overview  |
+|---|---|
+| - | - | 
