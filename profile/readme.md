@@ -6,9 +6,12 @@ Within the repositories in this organization, you will find the code and methods
 
 | Theme | Overview  |
 |---|---|
-|  [extreme heat](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Aheat&type=repositories) | Calculating heat extremes and their impacts on public health. | 
-|  [coastal risks](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Acoastal&type=repositories) | Assessing the impacts of storm surge and high winds for coastal communities.  |
-|   |   | 
+|  [Extreme Heat](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Aheat&type=repositories) | Calculating heat extremes and their impacts on public health. | 
+|  [Tropical Cyclone Risk](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Acoastal&type=repositories) | Assessing the impacts of storm surge and high winds for coastal communities.  |
+|  Agriculture |  | 
+|  Riverine Flooding |  | 
+|  Drought & Water Scarcity |  | 
+|  River & Lake Ice |  | 
 
 Our repositories are organized by topics corresponding to climatic perils and/or specific methodologies. 
 - Methodologies include: [downscaling workflows](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Abasd&type=repositories), etc etc etc
