@@ -12,6 +12,3 @@ Within the repositories in this organization, you will find the code and methods
 |  Riverine Flooding |  | 
 |  Drought & Water Scarcity |  | 
 |  River & Lake Ice |  | 
-
-Our repositories are organized by topics corresponding to climatic perils and/or specific methodologies. 
-- Methodologies include: [downscaling workflows](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Abasd&type=repositories), etc etc etc
