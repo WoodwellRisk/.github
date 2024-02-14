@@ -1,4 +1,6 @@
-![Organizational Banner](https://github.com/WoodwellRisk/.github/blob/main/profile/git_banner.png)
+<p align="center">
+  <img src="https://github.com/WoodwellRisk/.github/blob/main/profile/git_banner.png" />
+</p>
 
 ## Woodwell Climate Research Center: Risk
 
