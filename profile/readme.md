@@ -8,7 +8,6 @@ Woodwell provides selected communities with assessments of climate change-influe
 
 We believe that the analyses we provide and the data that drives them should be accessible to all. Here, we share the code and methods behind our suite of climate risk assessment tools, which are organized into climatic perils:
 
-<div align="center">
 | Theme | Overview  |
 |---|---|
 |  [Extreme Heat](https://github.com/search?q=org%3AWoodwellRisk%20topic%3Aheat&type=repositories) | Calculating heat extremes and their impacts on public health. | 
@@ -16,12 +15,10 @@ We believe that the analyses we provide and the data that drives them should be 
 |  Agriculture | Projecting crop yields under future climatic conditions. | 
 |  Flood Assessment | High resolution flood extents due to extreme rainfall. | 
 |  Drought & Water Scarcity | Understanding the future of global water availability. | 
-</div>
+
 
 We also provide useful tools for derived climate analyses:
 
-<center>
 | Tool | Overview  |
 |---|---|
 | Warming Levels |  | 
-</center>
